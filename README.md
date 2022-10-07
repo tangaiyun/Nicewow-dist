@@ -9,7 +9,8 @@
 - 下载发布的版本： [正式版1.2.0](https://github.com/tangaiyun/Nicewow-dist/raw/main/NiceWow1.2.0.zip)
 
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
-![输入图片说明](image1.png)
+![image](https://user-images.githubusercontent.com/7961235/194623997-9b55cfb5-ba20-4e3b-8cff-714a7029b05b.png)
+
 
 #### AutoFollow 插件安装
 - 怀旧服安装AutoFollow插件到"World of Warcraft/\_classic\_/Interface/AddOns"目录
@@ -33,7 +34,8 @@
 - 是否开启鼠标移动同步(Y/N): 如果你要玩几个法师往一处放暴风雪，这个就是为你准备的，鼠标指向宏会做的吧
 - 跟随宏和停止跟随宏如何设定，[请参考核心宏设定小节](#核心宏定义及宏键位绑定)
 - 一般的程序启动输入情况如图所示
-![输入图片说明](run.jpg)
+![image](https://user-images.githubusercontent.com/7961235/194624035-14c1275d-7b83-46a6-8749-7f2a5491f497.png)
+
 
 #### 功能初步验证
 程序正常启动后，玩家操作主控角色，按一下空格键（Space），如果所有多开的角色都会同时起跳，说明键位同步功能已正常启用。
@@ -66,9 +68,11 @@
 
 #### 近战跟随者额外配置
 - ESC-界面-游戏-鼠标-点击移动（勾选）， 点击移动视角模式--总是调整视角
-![输入图片说明](mouse.jpg)
+![image](https://user-images.githubusercontent.com/7961235/194624099-47db275e-e44b-41bf-93b8-28dfb2216970.png)
+
 - ESC-按键设置-选中目标-与目标互动-E(强力建议E键，很顺手） 
-![输入图片说明](intera.jpg)
+![image](https://user-images.githubusercontent.com/7961235/194624128-00de8714-95ee-4296-aff3-18098a58f2c3.png)
+
 - 如果近战跟随者，离主控攻击的怪有距离，无法攻击到，玩家按一下E键，则近战跟随者会主动调整视角并靠近目标怪物攻击
 
 #### 多法师暴风雪AOE
@@ -116,7 +120,8 @@ D0 D1 D2 D3 D4 D5 D6 D7 D8 D9 SPACE W E J Q T G Z X Y K H OEMMINUS OEMPLUS F1 F2
 #### 其他MMORPG网游支持（实验性，有效性有待玩家探索）
 - 多开网游客户端
 - 按CRL+ALT+DEL键，打开windows 任务管理器，选则详细信息Tab页，找到该网游客户端的进程，例如魔兽怀旧服的进程如图所示
-![输入图片说明](taskmanager.jpg)
+![image](https://user-images.githubusercontent.com/7961235/194624222-07c1debd-cd4d-4674-aa64-c2c03c8ad97d.png)
+
 - 假设该网游的客户端的进程名称为 xyz.exe
 - 在软件目录下制作一个文本文件，xyz.txt,里面的内容如下
 
@@ -126,7 +131,8 @@ start NiceWow.exe xyz
 exit
 ```
 - 改变xyz.txt后缀名为bat，则软件文件目录结构类似
-![输入图片说明](xyz.jpg)
+![image](https://user-images.githubusercontent.com/7961235/194624294-1f3a852b-64fb-4e51-bb96-96f8381f2362.png)
+
 - 多开玩游xyz，点击运行xyz.bat即可
 
 
