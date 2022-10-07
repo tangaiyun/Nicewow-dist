@@ -6,7 +6,7 @@
 
 #### 安装教程
 
-- 下载发布的版本： [正式版1.2.0](https://github.com/tangaiyun/Nicewow-dist/raw/main/NiceWow1.2.0.zip)
+- 下载发布的版本： [正式版1.2.0](https://gitee.com/aiyuntang/nicewow/raw/master/NiceWow1.2.0.zip)
 
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
 ![image](https://user-images.githubusercontent.com/7961235/194623997-9b55cfb5-ba20-4e3b-8cff-714a7029b05b.png)
@@ -15,8 +15,8 @@
 #### AutoFollow 插件安装
 - 怀旧服安装AutoFollow插件到"World of Warcraft/\_classic\_/Interface/AddOns"目录
 - 正式服安装AutoFollow插件到"World of Warcraft/\_retail\_/Interface/AddOns"目录
-- 怀旧服插件版本下载地址 [怀旧服适用版本](https://github.com/tangaiyun/Nicewow-dist/raw/main/AutoFollow-%E6%80%80%E6%97%A7%E6%9C%8D.zip)
-- 正式服插件版本下载地址 [正式服适用版本](https://github.com/tangaiyun/Nicewow-dist/raw/main/AutoFollow-%E6%AD%A3%E5%BC%8F%E6%9C%8D.zip)
+- 怀旧服插件版本下载地址 [怀旧服适用版本](https://gitee.com/aiyuntang/nicewow/raw/master/AutoFollow-%E6%80%80%E6%97%A7%E6%9C%8D.zip)
+- 正式服插件版本下载地址 [正式服适用版本](https://gitee.com/aiyuntang/nicewow/raw/master/AutoFollow-%E6%AD%A3%E5%BC%8F%E6%9C%8D.zip)
 
 #### 软件运行                            
 - 先多开运行游戏，本应用最多支持5开 
