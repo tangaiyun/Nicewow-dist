@@ -6,7 +6,7 @@
 
 #### 安装教程
 
-- 下载发布的版本： [正式版1.1.4](https://gitee.com/aiyuntang/nicewow/raw/master/NiceWow1.1.4.zip)
+- 下载发布的版本： [正式版1.2.0](https://github.com/tangaiyun/Nicewow-dist/raw/main/NiceWow1.2.0.zip)
 
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
 ![输入图片说明](image1.png)
@@ -14,8 +14,8 @@
 #### AutoFollow 插件安装
 - 怀旧服安装AutoFollow插件到"World of Warcraft/\_classic\_/Interface/AddOns"目录
 - 正式服安装AutoFollow插件到"World of Warcraft/\_retail\_/Interface/AddOns"目录
-- 怀旧服插件版本下载地址 [怀旧服适用版本](https://gitee.com/aiyuntang/nicewow/raw/master/AutoFollow-%E6%80%80%E6%97%A7%E6%9C%8D.zip)
-- 正式服插件版本下载地址 [正式服适用版本](https://gitee.com/aiyuntang/nicewow/raw/master/AutoFollow-%E6%AD%A3%E5%BC%8F%E6%9C%8D.zip)
+- 怀旧服插件版本下载地址 [怀旧服适用版本](https://github.com/tangaiyun/Nicewow-dist/raw/main/AutoFollow-%E6%80%80%E6%97%A7%E6%9C%8D.zip)
+- 正式服插件版本下载地址 [正式服适用版本](https://github.com/tangaiyun/Nicewow-dist/raw/main/AutoFollow-%E6%AD%A3%E5%BC%8F%E6%9C%8D.zip)
 
 #### 软件运行                            
 - 先多开运行游戏，本应用最多支持5开 
@@ -97,7 +97,7 @@
 
 #### 键位同步设置 keyclone.txt
 
-- 本软件内置可同步的键位为：` **A-Z(26个字母键),  0-9（10个数字键）， SPACE(空格键），OEMMINUS（减号），OEMPLUS（加号）, F1-F10(10个功能键, F11,F12除外）** `
+- 本软件内置可同步的键位为：` **A-Z(26个字母键),  0-9（10个数字键）， SPACE(空格键），OEMMINUS（减号），OEMPLUS（加号）, F1-F4 (F5-F9是快速切换游戏窗口键 F11,F12被windows系统用作其他用途，所以F5~F12都是不能同步的）** `
 
 - 用户可自定义被同步的键位，打开keyclone.txt, 初始内容为： 
 
