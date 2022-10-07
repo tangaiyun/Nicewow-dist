@@ -92,13 +92,13 @@
 
 - 跟随角色Ttz则每个对应的攻击键位都要绑定宏，对应的键位和宏，而且[请参考近战跟随者额外配置](#近战跟随者额外配置)
 ![image](https://user-images.githubusercontent.com/7961235/194626882-463752e0-ac7f-4eab-b71c-2cf414952633.png)
-- 影袭宏                                                                                                     -
+- 影袭宏:                                                                                                     
 ![image](https://user-images.githubusercontent.com/7961235/194627070-0e9f8123-57ef-494a-b666-937f257b8b3a.png)
-- 刺骨宏                                                                                                     -
+- 刺骨宏:                                                                                                    
 ![image](https://user-images.githubusercontent.com/7961235/194627154-54af70b7-7ae7-4c15-8948-290d51413429.png)
-- 跟随宏                                                                                                     -
+- 跟随宏:                                                                                                    
 ![image](https://user-images.githubusercontent.com/7961235/194627239-b6877397-2fd0-4159-832b-a293e6c8a147.png)
-- 停止宏                                                                                                     -
+- 停止宏:                                                                                                    
 ![image](https://user-images.githubusercontent.com/7961235/194627316-f437720e-ce74-4f45-87c2-102548b5af54.png)
 
 - 攻击宏里必须带有
