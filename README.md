@@ -101,6 +101,12 @@
 - 停止宏
 ![image](https://user-images.githubusercontent.com/7961235/194627316-f437720e-ce74-4f45-87c2-102548b5af54.png)
 
+- 攻击宏里必须带有
+```
+/target 主控角色id
+/assist
+/cast ...
+```
 - 作战场景： 玩家操控Ttx去接近怪，跟随者TTz会主动跟随Ttx,当Ttx开始攻击时，如果Ttz没法攻击到怪，这时玩家只要按一下跟随角色与目标互动的按键，则Ttz会主动接近怪并协助攻击怪。
 
 
