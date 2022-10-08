@@ -6,7 +6,7 @@
 
 #### 安装教程
 
-- 下载发布的版本： [正式版1.2.0](https://gitee.com/aiyuntang/nicewow/raw/master/NiceWow1.2.0.zip)
+- 下载发布的版本： [正式版1.3.0](https://gitee.com/aiyuntang/nicewow/raw/master/NiceWow1.3.0.zip)
 
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
 ![image](https://user-images.githubusercontent.com/7961235/194623997-9b55cfb5-ba20-4e3b-8cff-714a7029b05b.png)
