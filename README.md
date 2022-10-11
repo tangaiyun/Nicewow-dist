@@ -126,6 +126,7 @@
 
 - 调整每个wow的图形设置，都以窗口运行，并且窗口尺寸不宜过大，推荐1920*1440
 ![image](https://user-images.githubusercontent.com/7961235/195112283-2270ce89-b4a5-4ac0-9009-2be8cc986768.png)
+-[深度防掉线教学视频](https://www.bilibili.com/video/BV1MB4y177ev/)
 
 
 #### 玩家已开发的玩法样例
