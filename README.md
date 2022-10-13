@@ -121,7 +121,7 @@
 ![image](https://user-images.githubusercontent.com/7961235/195110919-1cfa45e7-90db-48ec-a586-f5e1d865e1e7.png)
 - 所有战网客户端大小一致，并严格堆叠在一起
 ![image](https://user-images.githubusercontent.com/7961235/195111362-7366cd3a-f5ea-482b-8043-1ea88aaee067.png)
-- 把鼠标位置放在“进入游戏”按钮正中间，并按一下INS键
+- 在NiceWow已运行时，把鼠标位置放在战网“进入游戏”按钮正中间，并按一下INS键
 ![image](https://user-images.githubusercontent.com/7961235/195112789-18bccb9c-5daf-431a-b8ed-d0d98c015601.png)
 
 - 调整每个wow的图形设置，都以窗口运行，并且窗口尺寸不宜过大，推荐1920*1440
