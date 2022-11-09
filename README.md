@@ -44,6 +44,10 @@
   ![image](https://user-images.githubusercontent.com/7961235/200771661-dad419ed-9645-4568-ab87-26d2cd4b0270.png)
 - 按下INS键后，NiceWow窗口会显示
   ![image](https://user-images.githubusercontent.com/7961235/200773688-1dd3c0d0-fc68-42fe-8081-5e4e2baa0e2e.png)
+- 制作一键攻击宏，宏很简单, /施放 攻击 即可，然后把它绑定在你前面输入的一键宏绑定键位上，我这里是Q，因为我前面就输入了Q
+![image](https://user-images.githubusercontent.com/7961235/200775187-cc855264-3440-4447-978b-83a8c924c22e.png)
+
+  
 
 
 #### 按键同步模式参数输入
