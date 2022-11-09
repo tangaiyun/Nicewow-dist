@@ -53,6 +53,15 @@
 - 在游戏里按一下一键宏绑定按键，我这里是Q，你会发现提示的技能被释放，Hekili会提示你释放下一个技能，NiceWow窗口里也有相应提示
  ![image](https://user-images.githubusercontent.com/7961235/200778371-c002ebe0-4216-4b02-a520-ff52fddc064b.png)
 - 按照上面的步骤，把所有出现的技能提示都设置一遍
+- 在游戏里按一下F10，则Nicewow会把所有上面的设置保存
+  ![image](https://user-images.githubusercontent.com/7961235/200780688-b78af486-6a62-4100-897b-b38b955e04eb.png)
+- 在游戏里按一下F9，则会开始自动攻击，再按一下F9，自动攻击暂停
+- 如果你要配置下个角色，请在配置前把当前的record.dat备份
+![image](https://user-images.githubusercontent.com/7961235/200781391-9bb0d51a-9549-438a-bda1-760fe448c05c.png)
+- 如需启动备份的配置，只要将备份的配置更名为record.dat即可（当然你要将原来的record.dat改成别的名字）
+- 如NiceWow目录下存在record.dat,启动选择一键宏模式时，会提示是否读取已有的按键录制记录，如输入Y回车，则record.dat储存的颜色按键对应置被直接加载，无需再次配置
+  ![image](https://user-images.githubusercontent.com/7961235/200782844-05be5cec-d3e8-44f1-bdc8-a597d625ccea.png)
+
   
 
 
