@@ -62,7 +62,8 @@
 - 如NiceWow目录下存在record.dat,启动选择一键宏模式时，会提示是否读取已有的按键录制记录，如输入Y回车，则record.dat储存的颜色按键对应置被直接加载，无需再次配置
   ![image](https://user-images.githubusercontent.com/7961235/200782844-05be5cec-d3e8-44f1-bdc8-a597d625ccea.png)
 
-  
+### 一键宏模式教学视频
+https://www.bilibili.com/video/BV1m24y1f7Py/
 
 
 #### 按键同步模式参数输入
