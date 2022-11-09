@@ -7,8 +7,7 @@
 #### 安装教程
 
 - 下载发布的版本： 
--  [正式版1.3.1]下载链接: https://pan.baidu.com/s/15cmiDJsoBnek2CoO87yljg 提取码: 9pj4 
--  [1.4.0（终极防掉线版本）] 下载链接: https://pan.baidu.com/s/1dM2T4087-fkIJEZjQ3JzOA 提取码: sem4 
+-  [正式版1.6.6]下载链接: https://pan.baidu.com/s/13pH05q1TIcuZPIGBORRaPQ 提取码：4mwn
 
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
 ![image](https://user-images.githubusercontent.com/7961235/194623997-9b55cfb5-ba20-4e3b-8cff-714a7029b05b.png)
