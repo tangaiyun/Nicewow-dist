@@ -78,7 +78,8 @@
 - 是否开启鼠标移动同步(Y/N): 如果你要玩几个法师往一处放暴风雪，这个就是为你准备的，鼠标指向宏会做的吧
 - 跟随宏和停止跟随宏如何设定，[请参考核心宏设定小节](#核心宏定义及宏键位绑定)
 - 一般的程序启动输入情况如图所示
-![image](https://user-images.githubusercontent.com/7961235/194624035-14c1275d-7b83-46a6-8749-7f2a5491f497.png)
+![image](https://user-images.githubusercontent.com/7961235/200783625-8bf4a8c6-1b74-4dd3-93ef-1f9798edfd29.png)
+
 
 
 #### 功能初步验证
