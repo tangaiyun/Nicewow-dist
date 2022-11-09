@@ -7,8 +7,7 @@
 #### 安装教程
 
 - 下载发布的版本： 
--  [正式版1.6.6]下载链接: https://pan.baidu.com/s/13pH05q1TIcuZPIGBORRaPQ 提取码：4mwn
-
+-  [正式版1.6.6]https://pan.baidu.com/s/1KHn_fFVu40jD1h0giqIDjg  提取码：3fvj
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
 - ![image](https://user-images.githubusercontent.com/7961235/200767841-4752ee8a-6656-4347-993c-97d2bbef3857.png)
 
