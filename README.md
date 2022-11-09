@@ -29,13 +29,11 @@
 - 输入S进入按键同步模式 
 
 #### 一键宏模式
+前提： - 桌面鼠标右键-显示设置-缩放与布局 100%
+![image](https://user-images.githubusercontent.com/7961235/195110919-1cfa45e7-90db-48ec-a586-f5e1d865e1e7.png)
 启用一键宏模式后，程序需要你输入几个参数
 - 是否开启后台wow防掉线(Y/N): 开始启用建议输入N，设置好了可以选Y，让后台挂机的号防止AFK
 - 请输入一键攻击键位: 输入将来的一键宏绑定的键位
-
-### 一键宏技能提示来源
-- 桌面鼠标右键-显示设置-缩放与布局 100%
-![image](https://user-images.githubusercontent.com/7961235/195110919-1cfa45e7-90db-48ec-a586-f5e1d865e1e7.png)
 - 要使用一键宏模式，必须安装一个技能优先级提示的插件，正式服强烈推荐Hekili，怀旧服部分职业可以使用Hekili，亦可以用TellMeWhen和WA替代，你要你会设置，插件能够提示下一个该释放的技能图标即可.
 - 本说明以Hekili为例子
 - 首先安装号Hekili 汉化版下载地址： https://img.nga.178.com/attachments/mon_202210/25/axsjQjmf-k1auXcZ3d.zip?filename=Hekili%5fWLK%5fzhCN%2ezip
