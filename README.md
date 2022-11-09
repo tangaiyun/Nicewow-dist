@@ -34,6 +34,8 @@
 - 请输入一键攻击键位: 输入将来的一键宏绑定的键位
 
 ### 一键宏技能提示来源
+- 桌面鼠标右键-显示设置-缩放与布局 100%
+![image](https://user-images.githubusercontent.com/7961235/195110919-1cfa45e7-90db-48ec-a586-f5e1d865e1e7.png)
 - 要使用一键宏模式，必须安装一个技能优先级提示的插件，正式服强烈推荐Hekili，怀旧服部分职业可以使用Hekili，亦可以用TellMeWhen和WA替代，你要你会设置，插件能够提示下一个该释放的技能图标即可.
 - 本说明以Hekili为例子
 - 首先安装号Hekili 汉化版下载地址： https://img.nga.178.com/attachments/mon_202210/25/axsjQjmf-k1auXcZ3d.zip?filename=Hekili%5fWLK%5fzhCN%2ezip
@@ -42,7 +44,7 @@
   ![image](https://user-images.githubusercontent.com/7961235/200771307-a78073a7-8da2-4f13-bf6b-583eb88b4ba1.png)
 - 把鼠标移动到第一个图标的右上方非底色区域，然后按一下INS
   ![image](https://user-images.githubusercontent.com/7961235/200771661-dad419ed-9645-4568-ab87-26d2cd4b0270.png)
-
+- 按下INS键后
 
 #### 按键同步模式参数输入
 启用按键同步模式后，程序需要你输入几个参数
