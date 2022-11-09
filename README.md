@@ -46,7 +46,13 @@
   ![image](https://user-images.githubusercontent.com/7961235/200773688-1dd3c0d0-fc68-42fe-8081-5e4e2baa0e2e.png)
 - 制作一键攻击宏，宏很简单, /施放 攻击 即可，然后把它绑定在你前面输入的一键宏绑定键位上，我这里是Q，因为我前面就输入了Q
 ![image](https://user-images.githubusercontent.com/7961235/200775187-cc855264-3440-4447-978b-83a8c924c22e.png)
-
+- 在游戏里按一下一键宏绑定按键，我这里是Q，回到NiceWow窗口，你会看到提示提示当前取色点的RGB值
+![image](https://user-images.githubusercontent.com/7961235/200776113-7ccb72cf-bc7d-46df-aaa9-3e2c361143bf.png)
+- 按一下F11，把当前图标对应的技能按键输入，让当前取色点的颜色跟技能按键对应起来
+![image](https://user-images.githubusercontent.com/7961235/200777300-67920e84-ff44-4b70-8ec3-5ac27c913a7f.png)
+- 在游戏里按一下一键宏绑定按键，我这里是Q，你会发现提示的技能被释放，Hekili会提示你释放下一个技能，NiceWow窗口里也有相应提示
+ ![image](https://user-images.githubusercontent.com/7961235/200778371-c002ebe0-4216-4b02-a520-ff52fddc064b.png)
+- 按照上面的步骤，把所有出现的技能提示都设置一遍
   
 
 
