@@ -40,9 +40,11 @@
 - 按enter键，输入/hekili再回车，呼出Hekili配置界面
 - 把Hekili的Primary部分拖拽到一个不会被遮挡的位置（建议聊天窗口的上方右对齐），如图所示
   ![image](https://user-images.githubusercontent.com/7961235/200771307-a78073a7-8da2-4f13-bf6b-583eb88b4ba1.png)
-- 把鼠标移动到第一个图标的右上方非底色区域，然后按一下INS
+- 把鼠标移动到第一个图标的右上方非底色区域，然后按一下INS，选定当前位置为取色点坐标
   ![image](https://user-images.githubusercontent.com/7961235/200771661-dad419ed-9645-4568-ab87-26d2cd4b0270.png)
-- 按下INS键后
+- 按下INS键后，NiceWow窗口会显示
+  ![image](https://user-images.githubusercontent.com/7961235/200773688-1dd3c0d0-fc68-42fe-8081-5e4e2baa0e2e.png)
+
 
 #### 按键同步模式参数输入
 启用按键同步模式后，程序需要你输入几个参数
