@@ -10,8 +10,7 @@
 -  [正式版1.6.6]下载链接: https://pan.baidu.com/s/13pH05q1TIcuZPIGBORRaPQ 提取码：4mwn
 
 - 解压缩到任意文件夹，解压后文件夹内容结构如下：
-![image](https://user-images.githubusercontent.com/7961235/194623997-9b55cfb5-ba20-4e3b-8cff-714a7029b05b.png)
-
+- ![image](https://user-images.githubusercontent.com/7961235/200767841-4752ee8a-6656-4347-993c-97d2bbef3857.png)
 
 #### AutoFollow 插件安装
 - 怀旧服安装AutoFollow插件到"World of Warcraft/\_classic\_/Interface/AddOns"目录
